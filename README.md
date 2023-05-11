@@ -8,6 +8,8 @@
 - JS
 - CSS
 - HTML
+- NodeJs
+- Express
 
 ## Functionality
 
